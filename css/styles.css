@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.intro {
+    display: flex;
+    flex-direction: row;
+}
+
+.placeholder {
+    display: flex;
+    flex-direction: column;
+}
+
+.library {
+    display: flex;
+    flex-direction: row;
+}
